@@ -4,7 +4,7 @@ scenarios:
   populations:
   - name: getters
     constant_load:
-      users: 5
+      users: 10
       duration: 2m
       rampup: 15s
 - name: Petstore API
